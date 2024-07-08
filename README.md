@@ -1,4 +1,4 @@
-# EVI-Edu-Tech
+# EVI-Edu-Tech-"Unlock Your Potential with EVI Edu Tech: Dive into Embedded Systems, VLSI, and IoT from Scratch and Engineer Your Future in Hardware!"
 # E-Embedded Systems
 <img src="https://github.com/Joswitha-123/EVI-Edu-Tech/blob/main/images/Screenshot%202024-07-08%20164045.png" alt="MLBC">
 
